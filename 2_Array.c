@@ -3,7 +3,7 @@
 int main() {
     int arr[50], size, i, pos, element;
 
-    // 1. Initializing the Array
+    
     printf("Enter the number of elements (max 50): ");
     scanf("%d", &size);
 
