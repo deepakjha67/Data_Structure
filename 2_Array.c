@@ -12,7 +12,7 @@ int main() {
         scanf("%d", &arr[i]);
     }
 
-    // -- TRAVERSAL --
+    // - TRAVERSAL -
     printf("\n--- Current Array (Traversal) ---\n");
     for (i = 0; i < size; i++) {
         printf("%d ", arr[i]);
