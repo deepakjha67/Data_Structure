@@ -38,7 +38,7 @@ int main() {
         arr[pos - 1] = element; // Insert the element
         size++;                 // Increase the logical size
 
-        // --- TRAVERSAL AFTER INSERTION ---
+        // -- TRAVERSAL AFTER INSERTION --
         printf("\n--- Array after Insertion ---\n");
         for (i = 0; i < size; i++) {
             printf("%d ", arr[i]);
