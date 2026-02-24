@@ -20,7 +20,7 @@ int main() {
     // 3. Printing using Pointer Arithmetic
     printf("\nDisplaying elements using a pointer:\n");
     for(i = 0; i < n; i++) {
-        // *(ptr + i) looks at the value at the 'next' memory address
+        //  *(ptr + i) looks at the value at the 'next' memory address
         printf("Element %d: %d\n", i, *(ptr + i));
     }
 
