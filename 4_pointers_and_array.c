@@ -2,8 +2,8 @@
 
 int main() {
     int n, i;
-    int arr[100]; // Array with a max capacity of 100
-    int *ptr;     // Pointer declaration
+    int arr[100]; //  Array with a max capacity of 100
+    int *ptr;     //  Pointer declaration
 
     printf("Enter the number of elements: ");
     scanf("%d", &n);
