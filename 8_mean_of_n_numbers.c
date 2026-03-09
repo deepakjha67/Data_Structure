@@ -24,7 +24,6 @@ int main() {
 }
 
 
-
 //  OUTPUT : 
 
 //  Enter the number of elements in the array: 5
