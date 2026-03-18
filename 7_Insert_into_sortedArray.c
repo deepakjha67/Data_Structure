@@ -14,6 +14,7 @@ int main() {
     }
     printf("\n");
 
+    
     // 2. Input the value to insert
     printf("Enter the number to insert: ");
     scanf("%d", &element);
