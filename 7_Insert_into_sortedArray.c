@@ -35,6 +35,7 @@ int main() {
     // Increase the size of the array
     n++;
 
+    
     // 5. Print the updated array
     printf("Array after insertion: ");
     for(i = 0; i < n; i++) {
